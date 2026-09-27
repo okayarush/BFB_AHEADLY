@@ -1,0 +1,4 @@
+
+> nasa-healthy-cities-client@1.0.0 build
+> react-scripts build --no-minify
+

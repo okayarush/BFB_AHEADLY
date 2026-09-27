@@ -1,0 +1,66 @@
+{
+  "name": "aheadly-server",
+  "version": "1.0.0",
+  "description": "Aheadly backend API for ward-level health intelligence",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "db:migrate": "node scripts/migrate.js",
+    "db:seed": "node scripts/seed.js",
+    "db:init": "npm run db:migrate && npm run db:seed",
+    "smoke": "node scripts/smoke.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "helmet": "^7.0.0",
+    "morgan": "^1.10.0",
+    "dotenv": "^16.3.1",
+    "axios": "^1.5.0",
+    "node-cron": "^3.0.2",
+    "compression": "^1.7.4",
+    "express-rate-limit": "^6.10.0",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.32.5",
+    "nodemailer": "^6.9.4",
+    "winston": "^3.10.0",
+    "joi": "^17.9.2",
+    "moment": "^2.29.4",
+    "lodash": "^4.17.21",
+    "geojson": "^0.5.0",
+    "turf": "^3.0.14",
+    "proj4": "^2.9.0",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "jest": "^29.6.4",
+    "supertest": "^6.3.3",
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "keywords": [
+    "nasa",
+    "earth-observation",
+    "urban-planning",
+    "climate-data",
+    "satellite-imagery",
+    "environmental-monitoring",
+    "space-apps-challenge"
+  ],
+  "author": "NASA Space Apps Challenge Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-team/nasa-healthy-cities.git"
+  }
+}

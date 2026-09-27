@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@geoman-io/leaflet-geoman-free": "^2.19.2"
+  },
+  "devDependencies": {
+    "shadcn": "^4.0.8"
+  }
+}

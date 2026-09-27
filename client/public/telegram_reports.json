@@ -1,0 +1,104 @@
+[
+  {
+    "id": "tg-1789187709386-v974u",
+    "type": "sanitation",
+    "issue_type": "Stagnant Water",
+    "source": "telegram",
+    "sector": "Sector-01",
+    "latitude": 15.369626,
+    "longitude": 75.122943,
+    "location": {
+      "lat": 15.369626,
+      "lng": 75.122943
+    },
+    "has_proof": true,
+    "photo_path": "/telegram_photos/tg-1789187709386-v974u.jpg",
+    "note": null,
+    "timestamp": "2026-09-12T04:35:16.695Z"
+  },
+  {
+    "id": "tg-1776316012071-4kfcs",
+    "type": "sanitation",
+    "issue_type": "Stagnant Water",
+    "source": "telegram",
+    "sector": "Sector-11",
+    "latitude": 17.712567,
+    "longitude": 75.856677,
+    "location": {
+      "lat": 17.712567,
+      "lng": 75.856677
+    },
+    "has_proof": true,
+    "photo_path": "/telegram_photos/tg-1776316012071-4kfcs.jpg",
+    "note": null,
+    "timestamp": "2026-04-16T05:06:54.291Z"
+  },
+  {
+    "id": "tg-1776248143464-q7df2",
+    "type": "sanitation",
+    "issue_type": "Stagnant Water",
+    "source": "telegram",
+    "sector": "Sector-11",
+    "latitude": 17.712567,
+    "longitude": 75.856677,
+    "location": {
+      "lat": 17.712567,
+      "lng": 75.856677
+    },
+    "has_proof": true,
+    "photo_path": "/telegram_photos/tg-1776248143464-q7df2.jpg",
+    "note": null,
+    "timestamp": "2026-04-15T10:15:45.806Z"
+  },
+  {
+    "id": "tg-1776239323728-1x3ge",
+    "type": "sanitation",
+    "issue_type": "Stagnant Water",
+    "source": "telegram",
+    "sector": "Sector-11",
+    "latitude": 17.712619,
+    "longitude": 75.856663,
+    "location": {
+      "lat": 17.712619,
+      "lng": 75.856663
+    },
+    "has_proof": true,
+    "photo_path": "/telegram_photos/tg-1776239323728-1x3ge.jpg",
+    "note": null,
+    "timestamp": "2026-04-15T07:48:47.072Z"
+  },
+  {
+    "id": "tg-1776158913104-y48ud",
+    "type": "sanitation",
+    "issue_type": "Open Drain / Sewage",
+    "source": "telegram",
+    "sector": "Sector-11",
+    "latitude": 17.719781,
+    "longitude": 75.860016,
+    "location": {
+      "lat": 17.719781,
+      "lng": 75.860016
+    },
+    "has_proof": true,
+    "photo_path": "/telegram_photos/tg-1776158913104-y48ud.jpg",
+    "note": null,
+    "timestamp": "2026-04-14T09:28:34.928Z"
+  },
+  {
+    "id": "tg-1776024395349-xlb0b",
+    "type": "sanitation",
+    "issue_type": "Uncollected Garbage",
+    "source": "telegram",
+    "sector": "Sector-01",
+    "latitude": 15.355331,
+    "longitude": 75.137355,
+    "location": {
+      "lat": 15.355331,
+      "lng": 75.137355
+    },
+    "has_proof": true,
+    "photo_path": "/telegram_photos/tg-1776024395349-xlb0b.jpg",
+    "note": null,
+    "timestamp": "2026-04-12T20:06:37.183Z"
+  }
+]
